@@ -112,6 +112,4 @@ You can confirm the correct folder in GIMP under **Edit > Preferences > Folders 
 
 ## License
 
-Add your chosen license here (for example MIT) and include a `LICENSE` file in the repository.
-
-Copyright (c) 2026 <your name>
+Charlie's Print Helper is provided as free, open source software. Development has ceased, but I will endeavour to address bugs reported by users. (MIT licence)
